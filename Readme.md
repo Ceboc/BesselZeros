@@ -9,5 +9,5 @@ It's also include the module Airyzero.jl that implements in Julia the equivalent
     boost/math/special_functions/detail/airy_ai_bi_zero.hpp
 
 ### Warning!
-- This is still a work in progress, there are still problems with negative indices for bessels functions.
+- This is still a work in progress, there are still problems with negative indices for bessel's functions.
 - Comments still in spanish.  
