@@ -1,6 +1,6 @@
 # Besselzero.jl
 
-This module implements the code as shown in the Boost C++ library to calculate zeros of Bessel functions.
+This module implements the code as shown in the Boost C++ library to calculate zeros of Bessel functions. [Zeros of Bessel functions (Boost)](https://www.boost.org/doc/libs/1_74_0/libs/math/doc/html/math_toolkit/bessel/bessel_root.html)
     
     boost/math/special_functions/detail/bessel_zero.hpp
 
